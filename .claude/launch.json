@@ -44,5 +44,11 @@
     "runtimeArgs": ["--dir", "D:\\Downloads\\GILD\\GitHub\\ggildhqq", "dev", "--port", "4325"],
     "port": 4325
   }
+  ,{
+    "name": "17-8-gild-miami",
+    "runtimeExecutable": "pnpm",
+    "runtimeArgs": ["--dir", "D:\\Downloads\\GILD\\GitHub\\17-8-gild-miami", "dev", "--port", "4326"],
+    "port": 4326
+  }
   ]
 }
